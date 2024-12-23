@@ -6,3 +6,6 @@ Uygulama, kullanıcıların kayıt olmasını, giriş yapmasını, profil günce
 
 
 # Ekran Gif
+
+
+![Video Screen1734979559466](https://github.com/user-attachments/assets/31211f22-5a81-4178-b7ab-8f0e37db04cd)
